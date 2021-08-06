@@ -1,7 +1,5 @@
 ### Hi there, I'm W3LLL - aka [W3LL.STORE][website] 👋
 
-[![Website][website]
-
 ## I'm a Developer and Webadmin!!
 
 - 🔭 I'm here to show all of our premium tools on store!
