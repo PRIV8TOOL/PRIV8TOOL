@@ -16,6 +16,7 @@
 <br />
 
 <summary>:zap: GitHub Stats</summary>
+<br />
 
 <img align="left" alt="W3LLLL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=W3LLLL&show_icons=true&theme=dracula&hide_border=true" />
 
