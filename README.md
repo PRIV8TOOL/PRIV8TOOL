@@ -5,7 +5,7 @@
 - 🔭 I'm here to show all of our premium tools on store!
 - ⚡ My language is PHP, HTML, JS, PYTHON, BASH
 
-### Connect with me:
+### Contact
 
 [<img align="left" alt="w3ll.shop" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="W3LLLL | ICQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icq.svg" />][icq]
@@ -23,4 +23,4 @@
 [website]: https://w3ll.shop
 [icq]: https://icq.im/W3LLSTORE_OFFICIAL
 [telegram]: https://t.me/W3LLSTORE
-[skype]: live:georgelolang0407
+[skype]: https://join.skype.com/invite/KeVFBfFgL3Gg
