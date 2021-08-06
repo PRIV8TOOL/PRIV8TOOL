@@ -1,6 +1,6 @@
 ### Hi there, I'm W3LLL - aka [W3LL.STORE][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+[![Website][website]
 
 ## I'm a Developer and Webadmin!!
 
