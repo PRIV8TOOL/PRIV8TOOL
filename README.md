@@ -13,13 +13,12 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 
 <br />
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=W3LLLL&show_icons=true&theme=dracula&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=W3LLLL&show_icons=true&theme=dracula&hide_border=true" />
 
-</details>
 
 [website]: https://w3ll.shop
 [icq]: @W3LLSTORE_OFFICIAL
