@@ -1,4 +1,4 @@
-### Hi there, I'm W3LLL - aka [W3LL.STORE][website] 👋
+### Hi there, I'm W3LLL - aka [W3LL.SHOP][website] 👋
 
 ## I'm a Developer and Webadmin!!
 
