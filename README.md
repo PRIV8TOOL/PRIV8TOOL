@@ -1,6 +1,6 @@
 ### Hi there, I'm W3LLL
 
-## I'm a Developer and Webadmin!!
+## I'm a Developer !!
 
 - 🔭 I'm here to show all of our premium tools on store!
 - ⚡ My language is PHP, HTML, JS, PYTHON, BASH
