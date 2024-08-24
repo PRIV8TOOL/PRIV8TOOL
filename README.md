@@ -1,4 +1,4 @@
-### Hi there, I'm PRIV8TOOLS
+### Hi there, I'm PRIV8TOOL
 
 ## I'm a Developer !!
 
@@ -12,4 +12,4 @@
 <summary>:zap: GitHub Stats</summary>
 <br />
 
-<img align="left" alt="PRIV8TOOLSL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PRIV8TOOLSL&show_icons=true&theme=dracula&hide_border=true" />
+<img align="left" alt="PRIV8TOOLSL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PRIV8TOOL&show_icons=true&theme=dracula&hide_border=true" />
